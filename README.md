@@ -12,6 +12,6 @@ Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
 <br>
 
-<p align="center">
+<p align="left">
    <img alt="Diagrama" src="https://" 
   width="80%">
