@@ -7,3 +7,11 @@ Comportamentos esperados:
 Repodutor Musicial: tocar, pausar, selecionarMusica
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+## Diagrama
+
+<br>
+
+<p align="center">
+   <img alt="Diagrama" src="https://" 
+  width="80%">
