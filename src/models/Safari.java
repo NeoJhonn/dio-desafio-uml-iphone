@@ -12,16 +12,16 @@ public class Safari implements NavegadorInterface {
 
     @Override
     public void exibirPagina() {
-
+        System.out.println("Exibindo Página da web.");
     }
 
     @Override
     public void adicionarNovaAba() {
-
+        System.out.println("Adicionada nova aba.");
     }
 
     @Override
     public void atualizarPagina() {
-
+        System.out.println("Atualizando página.");
     }
 }
